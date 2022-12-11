@@ -25,7 +25,7 @@ Hi, I'm Ibukunoluwa,
 - 👀  I'm open to collaborating on projects.
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhlak&theme=gotham&layout=compact&card_width=400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhlak&theme=gotham&layout=compact"/>
   <img src="https://github-readme-stats.vercel.app/api?username=bhlak&show_icons=true&theme=gotham&layout=compact"/>
   </div>
   
