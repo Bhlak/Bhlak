@@ -20,7 +20,7 @@ Hi, I'm Ibukunoluwa,
   - Computer Engineering (Elizade University)
   - Full Stack Software Engineering (ALX)
  
-- 🌱  Exploring the Raspberry Pi and it's uses.
+- 🌱  Ask me about Python and Javascript.
 
 - 👀  I'm open to collaborating on projects.
 
